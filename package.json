@@ -2,7 +2,7 @@
   "name": "react-course",
   "version": "1.0.0",
   "description": "This a React Course!",
-  "main": "app.js",
+  
   "scripts": {
     "test": "jest"
   },
@@ -24,5 +24,9 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "browserslist":[
+    "Last 2 versions"
+    
+]
 }
