@@ -1,0 +1,23 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "This a React Course!",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanshikagupta9/React.git"
+  },
+  "keywords": [],
+  "author": "Vanshika Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanshikagupta9/React/issues"
+  },
+  "homepage": "https://github.com/vanshikagupta9/React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
