@@ -31,4 +31,4 @@ const jsxHeading = <h1 id="abc">Hello World from JSX</h1>
 const root=ReactDOM.createRoot(document.getElementById("root"))
 
 root.render(jsxHeading)
-console.log(jsxHeading)
+console.log(jsxHeading) 
