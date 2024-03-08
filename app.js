@@ -6,7 +6,6 @@ import ReactDOM from "react-dom/client";
 // console.log(heading)//object
 // const root = ReactDOM.createRoot(document.getElementById("root"))
 // root.render(heading);
-
 //React.createElement => ReactElement-JS Object => HTMLElement(render)
 
 const parent = React.createElement("div", { id: "parent" }, [
